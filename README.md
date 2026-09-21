@@ -14,7 +14,7 @@
 
 Vengo dalla **filosofia** (laurea all'Università di Macerata) e oggi lavoro nel **marketing** di una scuola di formazione ad Ancona, dove mi occupo anche della parte web: siti, landing page, integrazioni.
 
-Mi piace costruire strumenti che rendano i dati pubblici **leggibili e verificabili**. Il metodo che mi porto dietro dagli studi è semplice: prima di credere a un numero, chiedersi da dove viene.
+Nel tempo libero ho creato Mercuriale: un sito che analizza i prezzi delle materie prime e dei carburanti da fonti open source e in chiaro. 
 
 <!-- ============ PROGETTI ============ -->
 ### `> ls ./progetti`
